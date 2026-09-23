@@ -48,3 +48,5 @@ Este projeto teve como foco praticar:
 ---
 
 Projeto feito para fins de estudo, como parte de um bootcamp da DIO.
+
+[📥 Baixar planilha (Simulador_investimento.xlsx)](./Simulador_investimento.xlsx)
